@@ -1,0 +1,6 @@
+npx create-next-app@latest ai-singing-video
+cd ai-singing-video
+
+npm install
+
+npm run dev
